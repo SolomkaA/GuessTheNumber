@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="entNumb">Enter Number (0 - 99)</string>
+    <string name="wrongNum">Wrong Number</string>
+    <string name="wrongResult">Wrong!</string>
+    <string name="correctResult">Correct!</string>
+</resources>
